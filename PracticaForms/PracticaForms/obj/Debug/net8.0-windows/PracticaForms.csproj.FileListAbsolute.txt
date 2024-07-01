@@ -1,0 +1,17 @@
+C:\Users\PC1\OneDrive\Documentos\Sergio\PracticaForms\PracticaForms\PracticaForms\bin\Debug\net8.0-windows\PracticaForms.exe
+C:\Users\PC1\OneDrive\Documentos\Sergio\PracticaForms\PracticaForms\PracticaForms\bin\Debug\net8.0-windows\PracticaForms.deps.json
+C:\Users\PC1\OneDrive\Documentos\Sergio\PracticaForms\PracticaForms\PracticaForms\bin\Debug\net8.0-windows\PracticaForms.runtimeconfig.json
+C:\Users\PC1\OneDrive\Documentos\Sergio\PracticaForms\PracticaForms\PracticaForms\bin\Debug\net8.0-windows\PracticaForms.dll
+C:\Users\PC1\OneDrive\Documentos\Sergio\PracticaForms\PracticaForms\PracticaForms\bin\Debug\net8.0-windows\PracticaForms.pdb
+C:\Users\PC1\OneDrive\Documentos\Sergio\PracticaForms\PracticaForms\PracticaForms\obj\Debug\net8.0-windows\PracticaForms.Cargar.resources
+C:\Users\PC1\OneDrive\Documentos\Sergio\PracticaForms\PracticaForms\PracticaForms\obj\Debug\net8.0-windows\PracticaForms.FormPrincipal.resources
+C:\Users\PC1\OneDrive\Documentos\Sergio\PracticaForms\PracticaForms\PracticaForms\obj\Debug\net8.0-windows\PracticaForms.csproj.GenerateResource.cache
+C:\Users\PC1\OneDrive\Documentos\Sergio\PracticaForms\PracticaForms\PracticaForms\obj\Debug\net8.0-windows\PracticaForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC1\OneDrive\Documentos\Sergio\PracticaForms\PracticaForms\PracticaForms\obj\Debug\net8.0-windows\PracticaForms.AssemblyInfoInputs.cache
+C:\Users\PC1\OneDrive\Documentos\Sergio\PracticaForms\PracticaForms\PracticaForms\obj\Debug\net8.0-windows\PracticaForms.AssemblyInfo.cs
+C:\Users\PC1\OneDrive\Documentos\Sergio\PracticaForms\PracticaForms\PracticaForms\obj\Debug\net8.0-windows\PracticaForms.csproj.CoreCompileInputs.cache
+C:\Users\PC1\OneDrive\Documentos\Sergio\PracticaForms\PracticaForms\PracticaForms\obj\Debug\net8.0-windows\PracticaForms.dll
+C:\Users\PC1\OneDrive\Documentos\Sergio\PracticaForms\PracticaForms\PracticaForms\obj\Debug\net8.0-windows\refint\PracticaForms.dll
+C:\Users\PC1\OneDrive\Documentos\Sergio\PracticaForms\PracticaForms\PracticaForms\obj\Debug\net8.0-windows\PracticaForms.pdb
+C:\Users\PC1\OneDrive\Documentos\Sergio\PracticaForms\PracticaForms\PracticaForms\obj\Debug\net8.0-windows\PracticaForms.genruntimeconfig.cache
+C:\Users\PC1\OneDrive\Documentos\Sergio\PracticaForms\PracticaForms\PracticaForms\obj\Debug\net8.0-windows\ref\PracticaForms.dll

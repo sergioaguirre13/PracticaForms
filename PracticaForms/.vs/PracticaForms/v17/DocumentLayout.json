@@ -15,7 +15,11 @@
       "RelativeMoniker": "D:0:0:{8B9E469E-2296-465C-9992-570D47981F4D}|PracticaForms\\PracticaForms.csproj|solutionrelative:practicaforms\\estudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B9E469E-2296-465C-9992-570D47981F4D}|PracticaForms\\PracticaForms.csproj|c:\\users\\pc1\\onedrive\\documentos\\sergio\\practicaforms\\practicaforms\\practicaforms\\cargar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8B9E469E-2296-465C-9992-570D47981F4D}|PracticaForms\\PracticaForms.csproj|c:\\users\\pc1\\onedrive\\documentos\\sergio\\practicaforms\\practicaforms\\practicaforms\\cargar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B9E469E-2296-465C-9992-570D47981F4D}|PracticaForms\\PracticaForms.csproj|solutionrelative:practicaforms\\cargar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9E469E-2296-465C-9992-570D47981F4D}|PracticaForms\\PracticaForms.csproj|C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\PracticaForms\\PracticaForms\\practicaforms\\cargar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8B9E469E-2296-465C-9992-570D47981F4D}|PracticaForms\\PracticaForms.csproj|solutionrelative:practicaforms\\cargar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -26,8 +30,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\PracticaForms\\PracticaForms\\PracticaForms\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "PracticaForms\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\PracticaForms\\PracticaForms\\PracticaForms\\FormPrincipal.cs",
+              "RelativeToolTip": "PracticaForms\\FormPrincipal.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAACIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T13:58:57.532Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -37,19 +55,7 @@
               "ToolTip": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\PracticaForms\\PracticaForms\\PracticaForms\\FormPrincipal.cs [Dise\u00F1o]",
               "RelativeToolTip": "PracticaForms\\FormPrincipal.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T15:11:42.445Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Cargar.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\PracticaForms\\PracticaForms\\PracticaForms\\Cargar.cs",
-              "RelativeDocumentMoniker": "PracticaForms\\Cargar.cs",
-              "ToolTip": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\PracticaForms\\PracticaForms\\PracticaForms\\Cargar.cs [Dise\u00F1o]",
-              "RelativeToolTip": "PracticaForms\\Cargar.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T14:01:40.07Z",
+              "WhenOpened": "2024-07-02T14:03:10.241Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
@@ -60,23 +66,35 @@
               "RelativeDocumentMoniker": "PracticaForms\\Estudiantes.cs",
               "ToolTip": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\PracticaForms\\PracticaForms\\PracticaForms\\Estudiantes.cs",
               "RelativeToolTip": "PracticaForms\\Estudiantes.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAABwAAAAAAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAAC0AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T14:01:06.179Z",
+              "WhenOpened": "2024-07-02T13:42:07.494Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormPrincipal.cs",
-              "DocumentMoniker": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\PracticaForms\\PracticaForms\\PracticaForms\\FormPrincipal.cs",
-              "RelativeDocumentMoniker": "PracticaForms\\FormPrincipal.cs",
-              "ToolTip": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\PracticaForms\\PracticaForms\\PracticaForms\\FormPrincipal.cs",
-              "RelativeToolTip": "PracticaForms\\FormPrincipal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA+AAAA",
+              "DocumentIndex": 3,
+              "Title": "Cargar.cs",
+              "DocumentMoniker": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\PracticaForms\\PracticaForms\\PracticaForms\\Cargar.cs",
+              "RelativeDocumentMoniker": "PracticaForms\\Cargar.cs",
+              "ToolTip": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\PracticaForms\\PracticaForms\\PracticaForms\\Cargar.cs",
+              "RelativeToolTip": "PracticaForms\\Cargar.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAAEAAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T13:58:57.532Z",
+              "WhenOpened": "2024-07-02T13:00:51.109Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cargar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\PracticaForms\\PracticaForms\\PracticaForms\\Cargar.cs",
+              "RelativeDocumentMoniker": "PracticaForms\\Cargar.cs",
+              "ToolTip": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\PracticaForms\\PracticaForms\\PracticaForms\\Cargar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PracticaForms\\Cargar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T14:01:40.07Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

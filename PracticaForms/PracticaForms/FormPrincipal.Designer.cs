@@ -30,32 +30,47 @@
         {
             dgvListaEstudiantes = new DataGridView();
             btnAgregar = new Button();
+            btnBorrar = new Button();
             ((System.ComponentModel.ISupportInitialize)dgvListaEstudiantes).BeginInit();
             SuspendLayout();
             // 
             // dgvListaEstudiantes
             // 
+            dgvListaEstudiantes.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
             dgvListaEstudiantes.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dgvListaEstudiantes.Location = new Point(67, 26);
+            dgvListaEstudiantes.Location = new Point(12, 26);
             dgvListaEstudiantes.Name = "dgvListaEstudiantes";
-            dgvListaEstudiantes.Size = new Size(245, 272);
+            dgvListaEstudiantes.Size = new Size(474, 272);
             dgvListaEstudiantes.TabIndex = 0;
             // 
             // btnAgregar
             // 
-            btnAgregar.Location = new Point(144, 323);
+            btnAgregar.Location = new Point(91, 332);
             btnAgregar.Name = "btnAgregar";
             btnAgregar.Size = new Size(106, 33);
             btnAgregar.TabIndex = 1;
             btnAgregar.Text = "Agregar";
             btnAgregar.UseVisualStyleBackColor = true;
+            btnAgregar.Click += btnAgregar_Click;
+            // 
+            // btnBorrar
+            // 
+            btnBorrar.ForeColor = Color.Red;
+            btnBorrar.Location = new Point(279, 332);
+            btnBorrar.Name = "btnBorrar";
+            btnBorrar.Size = new Size(106, 33);
+            btnBorrar.TabIndex = 2;
+            btnBorrar.Text = "BORRAR";
+            btnBorrar.UseVisualStyleBackColor = true;
+            btnBorrar.Click += btnBorrar_Click;
             // 
             // FormPrincipal
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.GradientActiveCaption;
-            ClientSize = new Size(378, 368);
+            ClientSize = new Size(498, 409);
+            Controls.Add(btnBorrar);
             Controls.Add(btnAgregar);
             Controls.Add(dgvListaEstudiantes);
             Name = "FormPrincipal";
@@ -69,5 +84,6 @@
 
         private DataGridView dgvListaEstudiantes;
         private Button btnAgregar;
+        private Button btnBorrar;
     }
 }

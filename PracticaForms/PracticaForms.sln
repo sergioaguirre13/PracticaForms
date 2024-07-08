@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35004.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaForms", "PracticaForms\PracticaForms.csproj", "{8B9E469E-2296-465C-9992-570D47981F4D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticaForms", "PracticaForms\PracticaForms.csproj", "{8B9E469E-2296-465C-9992-570D47981F4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaTruchaParc", "PracticaTruchaParc\PracticaTruchaParc.csproj", "{7698BC6F-E790-4470-B7F2-6842A066DE29}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{8B9E469E-2296-465C-9992-570D47981F4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B9E469E-2296-465C-9992-570D47981F4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B9E469E-2296-465C-9992-570D47981F4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7698BC6F-E790-4470-B7F2-6842A066DE29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7698BC6F-E790-4470-B7F2-6842A066DE29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7698BC6F-E790-4470-B7F2-6842A066DE29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7698BC6F-E790-4470-B7F2-6842A066DE29}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

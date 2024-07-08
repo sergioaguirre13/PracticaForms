@@ -19,6 +19,12 @@ namespace PracticaTruchaParc
             FormAlta alta = new FormAlta();
             alta.ShowDialog();
 
+            if (alta.DialogResult == DialogResult.OK)
+            {
+                computadoraList.Add(alta.NuevaComputadora);
+                ActualizarLista();
+            }
+
 
         }
 

@@ -1,21 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sergio\\Desktop\\DEV\\PracticaForms\\PracticaForms\\",
+  "WorkspaceRootPath": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\PracticaForms\\PracticaForms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7698BC6F-E790-4470-B7F2-6842A066DE29}|PracticaTruchaParc\\PracticaTruchaParc.csproj|c:\\users\\sergio\\desktop\\dev\\practicaforms\\practicaforms\\practicatruchaparc\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7698BC6F-E790-4470-B7F2-6842A066DE29}|PracticaTruchaParc\\PracticaTruchaParc.csproj|solutionrelative:practicatruchaparc\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7698BC6F-E790-4470-B7F2-6842A066DE29}|PracticaTruchaParc\\PracticaTruchaParc.csproj|c:\\users\\pc1\\onedrive\\documentos\\sergio\\practicaforms\\practicaforms\\practicatruchaparc\\computadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7698BC6F-E790-4470-B7F2-6842A066DE29}|PracticaTruchaParc\\PracticaTruchaParc.csproj|solutionrelative:practicatruchaparc\\computadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7698BC6F-E790-4470-B7F2-6842A066DE29}|PracticaTruchaParc\\PracticaTruchaParc.csproj|c:\\users\\sergio\\desktop\\dev\\practicaforms\\practicaforms\\practicatruchaparc\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7698BC6F-E790-4470-B7F2-6842A066DE29}|PracticaTruchaParc\\PracticaTruchaParc.csproj|c:\\users\\pc1\\onedrive\\documentos\\sergio\\practicaforms\\practicaforms\\practicatruchaparc\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7698BC6F-E790-4470-B7F2-6842A066DE29}|PracticaTruchaParc\\PracticaTruchaParc.csproj|solutionrelative:practicatruchaparc\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7698BC6F-E790-4470-B7F2-6842A066DE29}|PracticaTruchaParc\\PracticaTruchaParc.csproj|c:\\users\\sergio\\desktop\\dev\\practicaforms\\practicaforms\\practicatruchaparc\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7698BC6F-E790-4470-B7F2-6842A066DE29}|PracticaTruchaParc\\PracticaTruchaParc.csproj|c:\\users\\pc1\\onedrive\\documentos\\sergio\\practicaforms\\practicaforms\\practicatruchaparc\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7698BC6F-E790-4470-B7F2-6842A066DE29}|PracticaTruchaParc\\PracticaTruchaParc.csproj|solutionrelative:practicatruchaparc\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7698BC6F-E790-4470-B7F2-6842A066DE29}|PracticaTruchaParc\\PracticaTruchaParc.csproj|c:\\users\\pc1\\onedrive\\documentos\\sergio\\practicaforms\\practicaforms\\practicatruchaparc\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7698BC6F-E790-4470-B7F2-6842A066DE29}|PracticaTruchaParc\\PracticaTruchaParc.csproj|solutionrelative:practicatruchaparc\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7698BC6F-E790-4470-B7F2-6842A066DE29}|PracticaTruchaParc\\PracticaTruchaParc.csproj|c:\\users\\sergio\\desktop\\dev\\practicaforms\\practicaforms\\practicatruchaparc\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7698BC6F-E790-4470-B7F2-6842A066DE29}|PracticaTruchaParc\\PracticaTruchaParc.csproj|C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\PracticaForms\\PracticaForms\\practicatruchaparc\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7698BC6F-E790-4470-B7F2-6842A066DE29}|PracticaTruchaParc\\PracticaTruchaParc.csproj|solutionrelative:practicatruchaparc\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -26,53 +30,66 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormAlta.cs",
-              "DocumentMoniker": "C:\\Users\\sergio\\Desktop\\DEV\\PracticaForms\\PracticaForms\\PracticaTruchaParc\\FormAlta.cs",
+              "DocumentIndex": 1,
+              "Title": "FormAlta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\PracticaForms\\PracticaForms\\PracticaTruchaParc\\FormAlta.cs",
               "RelativeDocumentMoniker": "PracticaTruchaParc\\FormAlta.cs",
-              "ToolTip": "C:\\Users\\sergio\\Desktop\\DEV\\PracticaForms\\PracticaForms\\PracticaTruchaParc\\FormAlta.cs",
+              "ToolTip": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\PracticaForms\\PracticaForms\\PracticaTruchaParc\\FormAlta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PracticaTruchaParc\\FormAlta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:06:44.266Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Computadora.cs",
+              "DocumentMoniker": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\PracticaForms\\PracticaForms\\PracticaTruchaParc\\Computadora.cs",
+              "RelativeDocumentMoniker": "PracticaTruchaParc\\Computadora.cs",
+              "ToolTip": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\PracticaForms\\PracticaForms\\PracticaTruchaParc\\Computadora.cs",
+              "RelativeToolTip": "PracticaTruchaParc\\Computadora.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T13:55:29.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormAlta.cs",
+              "DocumentMoniker": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\PracticaForms\\PracticaForms\\PracticaTruchaParc\\FormAlta.cs",
+              "RelativeDocumentMoniker": "PracticaTruchaParc\\FormAlta.cs",
+              "ToolTip": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\PracticaForms\\PracticaForms\\PracticaTruchaParc\\FormAlta.cs",
               "RelativeToolTip": "PracticaTruchaParc\\FormAlta.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAjwBkAAAAMAAAA",
+              "ViewState": "AQIAACMAAAAAAAAAAAAqwDUAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-07T23:39:05.998Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FormAlta.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\sergio\\Desktop\\DEV\\PracticaForms\\PracticaForms\\PracticaTruchaParc\\FormAlta.cs",
-              "RelativeDocumentMoniker": "PracticaTruchaParc\\FormAlta.cs",
-              "ToolTip": "C:\\Users\\sergio\\Desktop\\DEV\\PracticaForms\\PracticaForms\\PracticaTruchaParc\\FormAlta.cs [Dise\u00F1o]",
-              "RelativeToolTip": "PracticaTruchaParc\\FormAlta.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T23:19:24.385Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "FormPrincipal.cs",
-              "DocumentMoniker": "C:\\Users\\sergio\\Desktop\\DEV\\PracticaForms\\PracticaForms\\PracticaTruchaParc\\FormPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\PracticaForms\\PracticaForms\\PracticaTruchaParc\\FormPrincipal.cs",
               "RelativeDocumentMoniker": "PracticaTruchaParc\\FormPrincipal.cs",
-              "ToolTip": "C:\\Users\\sergio\\Desktop\\DEV\\PracticaForms\\PracticaForms\\PracticaTruchaParc\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\PracticaForms\\PracticaForms\\PracticaTruchaParc\\FormPrincipal.cs",
               "RelativeToolTip": "PracticaTruchaParc\\FormPrincipal.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAlwBUAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAlwBkAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-07T23:04:39.365Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "FormPrincipal.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\sergio\\Desktop\\DEV\\PracticaForms\\PracticaForms\\PracticaTruchaParc\\FormPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\PracticaForms\\PracticaForms\\PracticaTruchaParc\\FormPrincipal.cs",
               "RelativeDocumentMoniker": "PracticaTruchaParc\\FormPrincipal.cs",
-              "ToolTip": "C:\\Users\\sergio\\Desktop\\DEV\\PracticaForms\\PracticaForms\\PracticaTruchaParc\\FormPrincipal.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\PracticaForms\\PracticaForms\\PracticaTruchaParc\\FormPrincipal.cs [Dise\u00F1o]",
               "RelativeToolTip": "PracticaTruchaParc\\FormPrincipal.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-07T22:53:41.073Z",

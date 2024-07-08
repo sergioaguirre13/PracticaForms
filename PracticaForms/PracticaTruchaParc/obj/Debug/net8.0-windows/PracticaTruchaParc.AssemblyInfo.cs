@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PracticaTruchaParc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5005b53912e800cd107e3b10fe8272f6e91aef2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b727e115a628a88d12bbcda0973e4785be23aeb9")]
 [assembly: System.Reflection.AssemblyProductAttribute("PracticaTruchaParc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PracticaTruchaParc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

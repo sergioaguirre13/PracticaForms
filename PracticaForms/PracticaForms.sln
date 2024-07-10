@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticaForms", "PracticaFo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticaTruchaParc", "PracticaTruchaParc\PracticaTruchaParc.csproj", "{7698BC6F-E790-4470-B7F2-6842A066DE29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MisClases", "MisClases\MisClases.csproj", "{DCE3B948-E3D0-4ECE-B1A2-75B0F5090CDB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MisClases", "MisClases\MisClases.csproj", "{DCE3B948-E3D0-4ECE-B1A2-75B0F5090CDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainCliente", "MainCliente\MainCliente.csproj", "{7D1958C9-3FCF-47E2-B494-AE9668BB9D6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MainCliente", "MainCliente\MainCliente.csproj", "{7D1958C9-3FCF-47E2-B494-AE9668BB9D6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainEmpleado", "MainEmpleado\MainEmpleado.csproj", "{F82EB211-2EB5-4E5B-B6BB-0D52C3F55F8A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{7D1958C9-3FCF-47E2-B494-AE9668BB9D6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D1958C9-3FCF-47E2-B494-AE9668BB9D6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D1958C9-3FCF-47E2-B494-AE9668BB9D6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F82EB211-2EB5-4E5B-B6BB-0D52C3F55F8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F82EB211-2EB5-4E5B-B6BB-0D52C3F55F8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F82EB211-2EB5-4E5B-B6BB-0D52C3F55F8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F82EB211-2EB5-4E5B-B6BB-0D52C3F55F8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

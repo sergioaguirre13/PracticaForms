@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\PracticaForms\\PracticaForms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D1958C9-3FCF-47E2-B494-AE9668BB9D6E}|MainCliente\\MainCliente.csproj|c:\\users\\pc1\\onedrive\\documentos\\sergio\\practicaforms\\practicaforms\\maincliente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D1958C9-3FCF-47E2-B494-AE9668BB9D6E}|MainCliente\\MainCliente.csproj|solutionrelative:maincliente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F82EB211-2EB5-4E5B-B6BB-0D52C3F55F8A}|MainEmpleado\\MainEmpleado.csproj|c:\\users\\pc1\\onedrive\\documentos\\sergio\\practicaforms\\practicaforms\\mainempleado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F82EB211-2EB5-4E5B-B6BB-0D52C3F55F8A}|MainEmpleado\\MainEmpleado.csproj|solutionrelative:mainempleado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE3B948-E3D0-4ECE-B1A2-75B0F5090CDB}|MisClases\\MisClases.csproj|c:\\users\\pc1\\onedrive\\documentos\\sergio\\practicaforms\\practicaforms\\misclases\\desarrollador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE3B948-E3D0-4ECE-B1A2-75B0F5090CDB}|MisClases\\MisClases.csproj|solutionrelative:misclases\\desarrollador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE3B948-E3D0-4ECE-B1A2-75B0F5090CDB}|MisClases\\MisClases.csproj|c:\\users\\pc1\\onedrive\\documentos\\sergio\\practicaforms\\practicaforms\\misclases\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE3B948-E3D0-4ECE-B1A2-75B0F5090CDB}|MisClases\\MisClases.csproj|solutionrelative:misclases\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE3B948-E3D0-4ECE-B1A2-75B0F5090CDB}|MisClases\\MisClases.csproj|c:\\users\\pc1\\onedrive\\documentos\\sergio\\practicaforms\\practicaforms\\misclases\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE3B948-E3D0-4ECE-B1A2-75B0F5090CDB}|MisClases\\MisClases.csproj|solutionrelative:misclases\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE3B948-E3D0-4ECE-B1A2-75B0F5090CDB}|MisClases\\MisClases.csproj|c:\\users\\pc1\\onedrive\\documentos\\sergio\\practicaforms\\practicaforms\\misclases\\analista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE3B948-E3D0-4ECE-B1A2-75B0F5090CDB}|MisClases\\MisClases.csproj|solutionrelative:misclases\\analista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +36,65 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\PracticaForms\\PracticaForms\\MainCliente\\Program.cs",
-              "RelativeDocumentMoniker": "MainCliente\\Program.cs",
-              "ToolTip": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\PracticaForms\\PracticaForms\\MainCliente\\Program.cs",
-              "RelativeToolTip": "MainCliente\\Program.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAACwAAAABAAAA",
+              "DocumentMoniker": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\PracticaForms\\PracticaForms\\MainEmpleado\\Program.cs",
+              "RelativeDocumentMoniker": "MainEmpleado\\Program.cs",
+              "ToolTip": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\PracticaForms\\PracticaForms\\MainEmpleado\\Program.cs",
+              "RelativeToolTip": "MainEmpleado\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAC8AAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T15:01:59.759Z",
+              "WhenOpened": "2024-07-10T15:13:35.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Analista.cs",
+              "DocumentMoniker": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\PracticaForms\\PracticaForms\\MisClases\\Analista.cs",
+              "RelativeDocumentMoniker": "MisClases\\Analista.cs",
+              "ToolTip": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\PracticaForms\\PracticaForms\\MisClases\\Analista.cs",
+              "RelativeToolTip": "MisClases\\Analista.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T15:01:06.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Desarrollador.cs",
+              "DocumentMoniker": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\PracticaForms\\PracticaForms\\MisClases\\Desarrollador.cs",
+              "RelativeDocumentMoniker": "MisClases\\Desarrollador.cs",
+              "ToolTip": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\PracticaForms\\PracticaForms\\MisClases\\Desarrollador.cs",
+              "RelativeToolTip": "MisClases\\Desarrollador.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T14:39:01.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gerente.cs",
+              "DocumentMoniker": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\PracticaForms\\PracticaForms\\MisClases\\Gerente.cs",
+              "RelativeDocumentMoniker": "MisClases\\Gerente.cs",
+              "ToolTip": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\PracticaForms\\PracticaForms\\MisClases\\Gerente.cs",
+              "RelativeToolTip": "MisClases\\Gerente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T14:12:18.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\PracticaForms\\PracticaForms\\MisClases\\Empleado.cs",
+              "RelativeDocumentMoniker": "MisClases\\Empleado.cs",
+              "ToolTip": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\PracticaForms\\PracticaForms\\MisClases\\Empleado.cs",
+              "RelativeToolTip": "MisClases\\Empleado.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T14:05:50.874Z",
               "EditorCaption": ""
             }
           ]
